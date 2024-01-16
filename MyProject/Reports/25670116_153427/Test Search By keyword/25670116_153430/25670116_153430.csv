@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Search By keyword,,,,16-01-2024 15:34:40,16-01-2024 15:34:50,9.315s,FAILED
+,,,,,,,
+Test Cases/UC01 - Search By Keyword/TC0103 - Search By Keyword - PBRU,,,,16-01-2024 15:34:44,16-01-2024 15:34:45,0.666s,FAILED
+"openBrowser("""")",,,,16-01-2024 15:34:44,16-01-2024 15:34:45,0.648s,FAILED
+,,,,,,,
+Test Cases/UC01 - Search By Keyword/TC0102 - Search By Keyword - KRU,,,,16-01-2024 15:34:47,16-01-2024 15:34:47,0.561s,FAILED
+"openBrowser("""")",,,,16-01-2024 15:34:47,16-01-2024 15:34:47,0.548s,FAILED
+,,,,,,,
+Test Cases/UC01 - Search By Keyword/TC0101 - Search By Keyword - npru,,,,16-01-2024 15:34:49,16-01-2024 15:34:50,0.558s,FAILED
+"openBrowser("""")",,,,16-01-2024 15:34:49,16-01-2024 15:34:50,0.547s,FAILED
